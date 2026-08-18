@@ -1,0 +1,5 @@
+#pragma once
+
+#define NO_ACTION_ONESHOT
+#undef LOCKING_SUPPORT_ENABLE
+#undef LOCKING_RESYNC_ENABLE
